@@ -7,7 +7,7 @@ if player.Name == "Loughlin50498" or "RayFaxis" or "ItzNotMeLolYT" then
 		local ChatTag = {}
 		ChatTag[yes] =
 			{
-				TagText = "VAPE OWNER",
+				TagText = "SNOOPY OWNER+",
 				TagColor = Color3.new(1, 0.3, 0.3),
 			}
 		
