@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player.Name == "Loughlin50498" or "RayFaxis" or "ItzNotMeLolYT" then
+if player.Name == "Loughlin50498" or "shutupACMODubad" or "ItzNotMeLolYT" then
     local Players = game:GetService("Players")
 		local ReplicatedStorage = game:GetService("ReplicatedStorage")
 		local yes = Players.LocalPlayer.Name
