@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player.Name == "Loughlin50498" or "RayFaxis" or "ItzNotMeLolYT" then
+if player.Name == "Loughlin50498" or "shutupACMODubad" or "ItzNotMeLolYT" then
     local Players = game:GetService("Players")
 		local ReplicatedStorage = game:GetService("ReplicatedStorage")
 		local yes = Players.LocalPlayer.Name
@@ -61,3 +61,6 @@ if player.Name == "Loughlin50498" or "RayFaxis" or "ItzNotMeLolYT" then
 	else
 	    print("not whitelisted")
 	   end
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RayFaxiu/Private-Scripts/main/Private%20Script%20Idk.lua"))()
